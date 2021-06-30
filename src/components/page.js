@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Button, Card, Container, Row, Col, Table, Image, Navbar, Pagination } from 'react-bootstrap';
+import { Pagination } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 export default class Page extends Component {
     render() {

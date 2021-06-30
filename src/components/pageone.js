@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Card, Container, Row, Col, Table, Image, Navbar } from 'react-bootstrap';
+import { Container,Table, Image, Navbar } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 class Pageone extends React.Component {
